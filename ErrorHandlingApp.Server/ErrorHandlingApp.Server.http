@@ -1,0 +1,6 @@
+@ErrorHandlingApp.Server_HostAddress = http://localhost:5240
+
+GET {{ErrorHandlingApp.Server_HostAddress}}/api/
+Accept: application/json
+
+###

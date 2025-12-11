@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="errorhandlingapp.client/errorhandlingapp.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ErrorHandlingApp.Server/ErrorHandlingApp.Server.csproj" />
+</Solution>
